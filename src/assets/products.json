@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "Red apples",
+    "img": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "availableAmount": 100,
+    "minOrderAmount": 10,
+    "price": 10.5
+  },
+  {
+    "id": "2",
+    "name": "Bananas",
+    "img": "https://dm.cms.aldi.cx/is/image/prod1amer/product/jpg/scaleWidth/306/10a4bf7d-f74f-4c37-ab27-2f7773c81039/Bananas%20%20%20per%20lb",
+    "availableAmount": 150,
+    "minOrderAmount": 5,
+    "price": 1
+  },
+  {
+    "id": "3",
+    "name": "oranges",
+    "img": "https://dm.cms.aldi.cx/is/image/prod1amer/product/jpg/scaleWidth/306/203b374e-e266-4974-9b33-b4091b272d87/Navel%20Oranges%203%20lb",
+    "availableAmount": 200,
+    "minOrderAmount": 1,
+    "price": 1
+  },
+  {
+    "id": "4",
+    "name": "Blueberries",
+    "img": "https://images.pexels.com/photos/70862/pexels-photo-70862.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "availableAmount": 180,
+    "minOrderAmount": 50,
+    "price": 15.5
+  },
+  {
+    "id": "5",
+    "name": "Screws",
+    "img": "https://t4.ftcdn.net/jpg/02/06/20/35/360_F_206203504_vFERoRFREnrjCuaI2y4qUXQ5ZoJ7KC05.jpg",
+    "availableAmount": 1200,
+    "minOrderAmount": 20,
+    "price": 9.25
+  },
+  {
+    "id": "5",
+    "name": "laptop",
+    "img": "https://media.istockphoto.com/id/164637079/photo/laptop.jpg?s=612x612&w=0&k=20&c=KU54BqCl0rfM62VBRvYvmPojY4MWokIxTa0QNrxHQzk=",
+    "availableAmount": 120,
+    "minOrderAmount": 1,
+    "price": 9.25
+  },
+  {
+    "id": "6",
+    "name": "Smartphone Pro",
+    "img": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "availableAmount": 200,
+    "minOrderAmount": 1,
+    "price": 699.99
+  },
+  {
+    "id": "7",
+    "name": "Wireless Headphones",
+    "img": "https://images.pexels.com/photos/374777/pexels-photo-374777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "availableAmount": 150,
+    "minOrderAmount": 2,
+    "price": 49.99
+  },
+  {
+    "id": "8",
+    "name": "Tablet Plus",
+    "img": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "availableAmount": 100,
+    "minOrderAmount": 1,
+    "price": 299.99
+  },
+  {
+    "id": "9",
+    "name": "Smartwatch Series 5",
+    "img": "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "availableAmount": 180,
+    "minOrderAmount": 1,
+    "price": 199.99
+  },
+  {
+    "id": "10",
+    "name": "Digital Camera",
+    "img": "https://images.pexels.com/photos/212372/pexels-photo-212372.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "availableAmount": 75,
+    "minOrderAmount": 1,
+    "price": 499.99
+  }
+]
